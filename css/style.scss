@@ -2,8 +2,8 @@ $black: #000000;
 $white: #ffffff;
 // $primary1: #456592;
 // $primary2: #5fa999;
-$primary1: #56bca4;
-$primary2: #35806e;
+$primary1: #1E78C0;
+$primary2: #060707;
 
 @mixin main-font {
   font-family: "Poppins", sans-serif;
@@ -80,7 +80,7 @@ body {
       width: 15px;
       height: 15px;
       border-radius: 100%;
-      background-color: #4bc5b8;
+      background-color: #1E78C0;
       margin-right: 5px;
     }
   }
@@ -473,7 +473,7 @@ a:focus {
         width: 15px;
         height: 15px;
         border-radius: 100%;
-        background-color: #4bc5b8;
+        background-color: #1E78C0;
         margin-right: 5px;
       }
     }
